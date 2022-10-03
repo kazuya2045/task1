@@ -79,10 +79,10 @@ footer {
 
   .step-area {
     width: 90%;
-    margin: 20px;
+    margin: 20px auto;
   }
 
   .step-area:last-child {
-    margin: 20px;
+    margin: 20px auto;
   }
 }
